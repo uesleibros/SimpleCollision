@@ -12,3 +12,7 @@
   > **Utilizei um algoritmo já existente e fiz minhas próprias modificações, então Não.**
 * É melhor que a Colisão Pica do Xeno?
   > **Até o presente momento...Não, ela está em desenvolvimento e só tem o básico.**
+* Pode por o código em Engines tipo Erckcore e etc?
+  > **Sim, é permitido utilizar o código da colisão, contanto que mencione o nome do criador.**
+* Tem suporte ao DeltaTime?
+  > Sim, ela foi feita para ser usada com o DeltaTime, a performace é bem maior.
