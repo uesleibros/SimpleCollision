@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [📚 Introdução](README.md)
 * [Como Usar](como-usar/README.md)
   * [Instalação](como-usar/instalacao/README.md)
     * [⬇ Instalação](como-usar/instalacao/instalacao.md)
