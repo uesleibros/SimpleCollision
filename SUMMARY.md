@@ -9,3 +9,4 @@
     * [🌎 Objects](como-usar/variaveis/objects/README.md)
       * [🪨 Solid Objects](como-usar/variaveis/objects/solid-objects.md)
       * [🐈⬛ 🐈⬛ BlackList](como-usar/variaveis/objects/blacklist.md)
+  * [Métodos](como-usar/metodos/README.md)
