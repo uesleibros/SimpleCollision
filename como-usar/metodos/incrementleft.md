@@ -15,3 +15,16 @@ If KeyPress(vbKeyA) Then SimpleCollision.IncrementLeft -3
 If KeyPress(vbKeyD) Then SimpleCollision.IncrementLeft 3
 ```
   * Move o jogador para a direita (+).
+
+# Obj
+* Caso você ponha algum objeto nesse parâmetro, não vai ser o jogador que irá se mover.
+```vb
+If KeyPress(vbKeyA) Then SimpleCollision.IncrementLeft -3, Shapes("meuObjeto")
+```
+  * Move o objeto para a esquerda (-).
+
+```vb
+If KeyPress(vbKeyD) Then SimpleCollision.IncrementLeft 3, Shapes("meuObjeto")
+```
+  * Move o objeti para a direita (+).
+
