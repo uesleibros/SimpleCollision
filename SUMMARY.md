@@ -11,3 +11,4 @@
       * [📓 BlackList](como-usar/variaveis/objects/blacklist.md)
   * [Métodos](como-usar/metodos/README.md)
       * [🏃‍♂️ IncrementLeft](como-usar/metodos/incrementleft.md)
+      * [🛫 IncrementTop](como-usar/metodos/incrementtop.md)
