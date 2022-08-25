@@ -6,6 +6,14 @@
 ## Por Que usar?
 > Um dos motivos de usar é que não tem dificuldade alguma no seu uso, simples e eficiente.
 
+## Atualizações
+* v1.5.1
+  * Adicionado objetos sólidos.
+* v1.5.0
+  * Adicionado lista negra (BlackList).
+  * Resolvido bug de colisão.
+
+
 ## FAQs
 * É um módulo de classe?
   > **Não.**
