@@ -8,5 +8,6 @@
     * [🎯 Handler](como-usar/variaveis/handler.md)
     * [🌎 Objects](como-usar/variaveis/objects/README.md)
       * [🪨 Solid Objects](como-usar/variaveis/objects/solid-objects.md)
-      * [🐈⬛ 🐈⬛ BlackList](como-usar/variaveis/objects/blacklist.md)
+      * [📓 BlackList](como-usar/variaveis/objects/blacklist.md)
   * [Métodos](como-usar/metodos/README.md)
+      * [🏃‍♂️ IncrementLeft](como-usar/metodos/incrementleft.md)
