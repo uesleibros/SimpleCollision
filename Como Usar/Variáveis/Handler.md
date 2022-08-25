@@ -3,4 +3,4 @@
 ```vb
 Set SimpleCollision.Handler = Shapes("<player>")
 ```
-> <player> é o nome do seu jogador.
+- `<player>` é o nome do seu jogador.
