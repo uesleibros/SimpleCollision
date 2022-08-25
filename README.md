@@ -3,6 +3,9 @@
 > É uma colisão bastante simples baseada no Algoritmo **AABB**.
 > O conceito e/ou objetivo é ser eficiente e básico, que seja tão fácil de entender que o próprio Erick entenda.
 
+## Por Que usar?
+> Um dos motivos de usar é que não tem dificuldade alguma no seu uso, simples e eficiente.
+
 ## FAQs
 * É um módulo de classe?
   > **Não.**
