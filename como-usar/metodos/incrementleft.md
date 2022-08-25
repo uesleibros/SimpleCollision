@@ -26,5 +26,5 @@ If KeyPress(vbKeyA) Then SimpleCollision.IncrementLeft -3, Shapes("meuObjeto")
 ```vb
 If KeyPress(vbKeyD) Then SimpleCollision.IncrementLeft 3, Shapes("meuObjeto")
 ```
-  * Move o objeti para a direita (+).
+  * Move o objeto para a direita (+).
 
