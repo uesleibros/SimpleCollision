@@ -2,7 +2,7 @@
 
 > É a variável mais importante do módulo. Serve para dizer que é o jogador.
 
-```vb
+```vba
 Set SimpleCollision.Handler = Shapes("<player>")
 ```
 
