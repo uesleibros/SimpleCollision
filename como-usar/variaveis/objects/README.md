@@ -2,7 +2,7 @@
 
 > Essa variável é a que define os objetos que vão sofrer colisão.
 
-```vba
+```vb
 SimpleCollision.Objects = Array("<objeto>")
 ```
 
@@ -10,7 +10,7 @@ SimpleCollision.Objects = Array("<objeto>")
 
 > Você pode por mais de um objeto na lista se quiser, por exemplo:
 
-```vba
+```vb
 SimpleCollision.Objects = Array("meuObjeto", "meuObjeto2"...)
 ```
 
@@ -22,7 +22,7 @@ SimpleCollision.Objects = Array("meuObjeto", "meuObjeto2"...)
 
 * Tem um "segredinho", caso você ponha `#all` no texto, ele vai pegar todos os objetos com esse nome.
 
-```vba
+```vb
 SimpleCollision.Objects = Array("meuObjeto#all")
 ```
 
