@@ -34,12 +34,12 @@ End If
 
 > Ele também pode retornar o objeto em que está colidindo, para saber mais sobre essa função vá até a sessão:
 
-{% content-ref url="collstats/" %}
-[collstats](collstats/)
+{% content-ref url="../../variaveis/collstats/" %}
+[collstats](../../variaveis/collstats/)
 {% endcontent-ref %}
 
-{% content-ref url="collstats/collidedshp.md" %}
-[collidedshp.md](collstats/collidedshp.md)
+{% content-ref url="../../variaveis/collstats/collidedshp.md" %}
+[collidedshp.md](../../variaveis/collstats/collidedshp.md)
 {% endcontent-ref %}
 
 ### CheckDirection

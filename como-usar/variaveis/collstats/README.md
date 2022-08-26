@@ -1,4 +1,4 @@
-# 🤩 CollStats
+# 🎒 CollStats
 
 > Essa variável ela é diferente das outras, por um motivo. Ela possui algumas propriedades que são bastante úteis na hora da colisão.
 
