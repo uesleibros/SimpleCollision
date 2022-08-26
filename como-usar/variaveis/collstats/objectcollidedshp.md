@@ -1,5 +1,9 @@
 # 🧃 ObjectCollidedShp
 
+{% content-ref url="../../metodos/isobjectcollided.md" %}
+[isobjectcollided.md](../../metodos/isobjectcollided.md)
+{% endcontent-ref %}
+
 > Essa variável retorna o objeto em que o objeto está colidindo atualmente.
 
 Exemplo:

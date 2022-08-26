@@ -1,5 +1,9 @@
 # 🥤 CollidedShp
 
+{% content-ref url="../../metodos/iscollided/" %}
+[iscollided](../../metodos/iscollided/)
+{% endcontent-ref %}
+
 > Essa variável retorna o objeto em que o jogador está colidindo atualmente.
 
 Exemplo:
