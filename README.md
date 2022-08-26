@@ -10,10 +10,6 @@
 
 ### Atualizações
 
-* v1.5.2
-  * Adicionado colisão ao jogador com objetos em movimento.
-  * Melhora no código.
-  * Variável `MovingObjects` adicionada.
 * v1.5.1
   * Adicionado objetos sólidos.
 * v1.5.0
