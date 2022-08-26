@@ -1,4 +1,4 @@
-# 💥 IsCollided
+# 🪣 IsCollided
 
 > Essa função é a principal do módulo, a mais útil entre todas.
 
@@ -36,6 +36,10 @@ End If
 
 {% content-ref url="collstats/" %}
 [collstats](collstats/)
+{% endcontent-ref %}
+
+{% content-ref url="collstats/collidedshp.md" %}
+[collidedshp.md](collstats/collidedshp.md)
 {% endcontent-ref %}
 
 ### CheckDirection

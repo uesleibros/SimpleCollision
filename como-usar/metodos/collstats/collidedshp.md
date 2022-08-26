@@ -1,4 +1,4 @@
-# 🐃 CollidedShp
+# 🥤 CollidedShp
 
 > Essa variável retorna o objeto em que o jogador está colidindo atualmente.
 
