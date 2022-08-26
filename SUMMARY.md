@@ -6,7 +6,7 @@
     * [⬇ Instalação](como-usar/instalacao/instalacao.md)
   * [Variáveis](como-usar/variaveis/README.md)
     * [🎯 Handler](como-usar/variaveis/handler.md)
-    * [🎒 CollStats](como-usar/variaveis/collstats/README.md)
+    * [🎒 CollStats](como-usar/metodos/iscollided/collstats.md)
       * [🥤 CollidedShp](como-usar/variaveis/collstats/collidedshp.md)
       * [🧃 ObjectCollidedShp](como-usar/variaveis/collstats/objectcollidedshp.md)
     * [🌎 Objects](como-usar/variaveis/objects/README.md)

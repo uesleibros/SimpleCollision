@@ -22,8 +22,8 @@ Nessa linha de código ele checa se o objeto `parede` está colidindo com qualqu
 
 > Ele também pode retornar o objeto em que está colidindo, para saber mais sobre essa função vá até a sessão:
 
-{% content-ref url="../variaveis/collstats/" %}
-[collstats](../variaveis/collstats/)
+{% content-ref url="iscollided/collstats.md" %}
+[collstats.md](iscollided/collstats.md)
 {% endcontent-ref %}
 
 {% content-ref url="../variaveis/collstats/objectcollidedshp.md" %}
