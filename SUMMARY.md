@@ -11,5 +11,7 @@
       * [🚜 Moving Objects](como-usar/variaveis/objects/moving-objects.md)
       * [🐈⬛ BlackList](como-usar/variaveis/objects/blacklist.md)
   * [Métodos](como-usar/metodos/README.md)
+    * [💥 IsCollided](como-usar/metodos/iscollided/README.md)
+      * [🤩 CollStats](como-usar/metodos/iscollided/collstats.md)
     * [🏃♂ IncrementLeft](como-usar/metodos/incrementleft.md)
     * [⛷ IncrementTop](como-usar/metodos/incrementtop.md)
