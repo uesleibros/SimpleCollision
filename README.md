@@ -4,7 +4,7 @@
 
 ### Por Que usar?
 
-> Um dos motivos de usar é que não tem dificuldade alguma no seu uso, simples e eficiente.
+> Um dos motivos de usar é que não tem dificuldade alguma no seu uso, simples e eficiente. Tem bastante função que vai te ajudar em vários sistemas.
 
 ### Atualizações
 
@@ -17,6 +17,15 @@
 * v1.5.0
   * Adicionado lista negra (BlackList).
   * Resolvido bug de colisão.
+
+### ToDo List
+
+* [x] Colisão com o jogador.
+* [x] Colisão de um objeto com outro objeto.
+* [x] Variável para pegar dados de objetos colididos.
+* [x] Performace e redução de lag.
+* [x] Mover objetos.
+* [x] Colisão com objetos em movimento.
 
 ### FAQs
 
